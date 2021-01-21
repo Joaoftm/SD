@@ -1,11 +1,4 @@
 
-/*
-# Grupo 26
-# Miguel Vasconcelos - 51302
-# João Miranda - 47143
-# Gonçalo Santos - 51962
-*/
-
 #include "inet.h"
 #include "client/client_stub-private.h"
 #include "client/network_client.h"
