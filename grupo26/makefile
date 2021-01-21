@@ -1,7 +1,3 @@
-# Grupo 26
-# Miguel Vasconcelos - 51302
-# João Miranda - 47143
-# Gonçalo Santos - 51962
 
 
 CC = gcc
